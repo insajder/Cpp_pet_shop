@@ -1,0 +1,8 @@
+Pas~Buldog~5200.000000~0~7
+Pas~Zlatni retriver~5000.000000~4~10
+Pas~Haski~7000.000000~1~5
+Pas~Nemacki ovcar~6500.000000~6~7
+Macka~Devon rek~8500.000000~7~siva
+Macka~Bengalska~18500.000000~3~bela
+Macka~Britanska~3000.000000~1~zuta
+Macka~Klep~100.000000~0~boja
